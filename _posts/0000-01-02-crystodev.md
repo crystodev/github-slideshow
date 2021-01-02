@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“Code never lies; comments sometimes do.” — Ron Jeffries
 Use the left arrow to go back!
